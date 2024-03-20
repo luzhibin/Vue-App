@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vue外卖App（移动端适配）
 这是一款基于Vue2的外卖APP
 ### 写在前面
@@ -21,3 +22,29 @@
 + 商家商品、评价、信息界面展现，实现购物车加购功能
 + 刷新购物车数据保存的功能
 + 也许还有一些错误或者可以优化的地方，欢迎和我交流，共同学习，一起改进。
+=======
+# vue-waimai
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+>>>>>>> master
