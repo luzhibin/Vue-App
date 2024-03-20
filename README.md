@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Vue外卖App（移动端适配）
 这是一款基于Vue2的外卖APP
 ### 写在前面
@@ -47,4 +46,3 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> master
