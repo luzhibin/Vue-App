@@ -61,7 +61,7 @@ export default {
       }
     };
     const logOut = () => {
-      localStorage.removeItem("isLogin");
+      //localStorage.removeItem("isLogin");
       router.push("/login");
       Toast("退出成功");
     };

@@ -42,8 +42,9 @@ export default {
   setup() {
     const router = useRouter();
     const data = reactive({
-      name: "香飘飘",
-      describe: "战胜自己才是命运的强者",
+      userInfo: JSON.parse(localStorage.getItem("userInfo")),
+      name: userInfo["user"],
+      describe: "这里还什么都没写...",
     });
     const go = (path) => {
       router.push(path);
