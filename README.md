@@ -16,28 +16,8 @@
 
 ### 已实现的功能有：
 
+### 项目展示：
+![1710916634242](https://github.com/luzhibin/Vue-waimai-App/assets/44298549/35961644-a00d-4052-9c8a-bed49d12edf2)
+![1710916750181](https://github.com/luzhibin/Vue-waimai-App/assets/44298549/3a69ec84-2e1f-4d3e-b61e-5f147ab14a58)
 
-=======
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
