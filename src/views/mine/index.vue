@@ -42,7 +42,7 @@ export default {
   setup() {
     const router = useRouter();
     const data = reactive({
-      name: "jason",
+      name: "香飘飘",
       describe: "战胜自己才是命运的强者",
     });
     const go = (path) => {

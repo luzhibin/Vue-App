@@ -73,6 +73,8 @@ export default {
         data.big_sort = res.big_sort;
         data.small_sort = res.small_sort;
         data.centent_nav_list = res.centent_nav_list;
+        console.log("data")
+        console.log(data);
       });
       // axios.get("/home/getHomeData").then((res) => {
       //   // console.log(res);
