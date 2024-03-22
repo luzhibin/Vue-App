@@ -41,8 +41,8 @@ export default {
   },
   setup() {
     const data = reactive({
-      name: "",
-      sign: "战胜自己是命运的强者",
+      name: "香飘飘",
+      sign: "好好学习，天天向上",
       pass: "",
     });
     const router = useRouter();
@@ -61,7 +61,7 @@ export default {
       }
     };
     const logOut = () => {
-      //localStorage.removeItem("isLogin");
+      // localStorage.removeItem("isLogin");
       router.push("/login");
       Toast("退出成功");
     };
